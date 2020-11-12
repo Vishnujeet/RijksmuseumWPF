@@ -70,3 +70,87 @@ C:\Users\310241978\source\repos\EIS - Copy\RM.View\bin\Debug\Polly.xml
 C:\Users\310241978\source\repos\EIS - Copy\RM.View\bin\Debug\RM.Service.dll.config
 C:\Users\310241978\source\repos\EIS - Copy\RM.View\obj\Debug\Screen\ErrorDailog.baml
 C:\Users\310241978\source\repos\EIS - Copy\RM.View\obj\Debug\Screen\ErrorDailog.g.cs
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.View.dll.config
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.View.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.View.pdb
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.ViewModel.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.Service.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.Common.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.Utils.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\Polly.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.ViewModel.pdb
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.ViewModel.dll.config
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.Service.pdb
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.Service.dll.config
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.Common.pdb
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.Utils.pdb
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\Polly.pdb
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\Polly.xml
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\RM.View.csprojAssemblyReference.cache
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\Resource\Style\Style.baml
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\Screen\SingleArtViewer.baml
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\Screen\ArtObjectViewer.baml
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\MainScreenView.g.cs
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\Screen\SingleArtViewer.g.cs
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\Screen\ArtObjectViewer.g.cs
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\RM.View_MarkupCompile.cache
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\RM.View_MarkupCompile.lref
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\MainScreenView.baml
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\RM.View.g.resources
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\RM.View.Properties.Resources.resources
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\RM.View.csproj.GenerateResource.cache
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\RM.View.csproj.CoreCompileInputs.cache
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\RM.View.csproj.CopyComplete
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\RM.View.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\RM.View.pdb
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.Cache.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\bin\Debug\RM.Cache.pdb
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\Screen\ErrorDialog.baml
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.View\obj\Debug\Screen\ErrorDialog.g.cs
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.View.dll.config
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.View.dll
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.View.pdb
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.ViewModel.dll
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.Utils.dll
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.Service.dll
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.Common.dll
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.Cache.dll
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\Polly.dll
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.ViewModel.pdb
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.ViewModel.dll.config
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.Utils.pdb
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.Service.pdb
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.Service.dll.config
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.Common.pdb
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\RM.Cache.pdb
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\Polly.pdb
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\Polly.xml
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\RM.View.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\Resource\Style\Style.baml
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\Screen\ErrorDialog.baml
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\Screen\SingleArtViewer.baml
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\Screen\ArtObjectViewer.baml
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\MainScreenView.g.cs
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\Screen\ErrorDialog.g.cs
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\Screen\SingleArtViewer.g.cs
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\Screen\ArtObjectViewer.g.cs
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\RM.View_MarkupCompile.cache
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\RM.View_MarkupCompile.lref
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\MainScreenView.baml
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\RM.View.g.resources
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\RM.View.Properties.Resources.resources
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\RM.View.csproj.GenerateResource.cache
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\RM.View.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\RM.View.csproj.CopyComplete
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\RM.View.dll
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\RM.View.pdb

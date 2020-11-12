@@ -64,6 +64,7 @@ namespace RM.Service
             {
                 var response =
                     await client.GetAsync($"https://www.rijksmuseum.nl/api/nl/collection/{id}?key=3GW9HXmd");
+                if (response.StatusCode == HttpStatusCode.NotFound || response.StatusCode == HttpStatusCode.InternalServerError) return null;
                 var content = await response.Content.ReadAsStringAsync();
                 return JsonConvert.DeserializeObject<SingleArt>(content);
             }

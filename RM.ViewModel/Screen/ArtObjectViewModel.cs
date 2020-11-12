@@ -1,24 +1,26 @@
 ﻿using System;
-using RM.Common;
-using RM.Service;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using RM.Cache;
+using RM.Common;
+using RM.Service;
 using RM.Utils;
 using RM.ViewModel.Helpers;
-using RM.ViewModel.Screen;
 
-namespace RM.ViewModel
+namespace RM.ViewModel.Screen
 {
     public class ArtObjectViewModel : ViewModelBase, IArtObjectViewModel
     {
         private readonly IRMService apiService;
         private readonly IArtViewerViewModel artViewerViewModel;
+        private ISingleArt singleArtObject;
 
         public ArtObjectViewModel()
         {
             apiService = Container.Resolve<IRMService>();
             artViewerViewModel = Container.Resolve<IArtViewerViewModel>();
+            singleArtObject = Container.Resolve<ISingleArt>();
         }
 
         private IEnumerable<ArtObject> listOfArtObjects;
@@ -49,19 +51,22 @@ namespace RM.ViewModel
         {
             try
             {
-                var result = await apiService.GetArtObjectDetails(firstName.ToString());
-                artViewerViewModel.ArtUrl = result.artObject.webImage.url;
-                artViewerViewModel.Description = result.artObject.description;
-                artViewerViewModel.Title = result.artObject.longTitle;
-                artViewerViewModel.Maker = result.artObject.principalOrFirstMaker;
+                singleArtObject = DataCache.Get<SingleArt>(firstName.ToString());
+                if (singleArtObject == null)
+                {
+                    singleArtObject = await apiService.GetArtObjectDetails(firstName.ToString());
+                    DataCache.Add(singleArtObject, singleArtObject.artObject.objectNumber);
+                }
+                artViewerViewModel.ArtUrl = singleArtObject.artObject.webImage.url;
+                artViewerViewModel.Description = singleArtObject.artObject.description;
+                artViewerViewModel.Title = singleArtObject.artObject.longTitle;
+                artViewerViewModel.Maker = singleArtObject.artObject.principalOrFirstMaker;
                 Container.Resolve<IDataContextProvider>().ViewActivator.ArtViewScreen(artViewerViewModel);
             }
             catch (Exception e)
             {
-                Console.WriteLine(e);
-                throw;
+                Container.Resolve<IDataContextProvider>().ViewActivator.ActivateErrorMessageBoxScreen("Data not found!");
             }
-            
         }
     }
 }

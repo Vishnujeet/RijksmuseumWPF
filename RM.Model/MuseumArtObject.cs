@@ -80,7 +80,12 @@ namespace RM.Common
         public IEnumerable<ArtObject> artObjects { get; set; }
     }
 
-    public class SingleArt
+    public interface ISingleArt
+    {
+         int elapsedMilliseconds { get; set; }
+         ArtObject artObject { get; set; }
+    }
+    public class SingleArt: ISingleArt
     {
         public int elapsedMilliseconds { get; set; }
         public ArtObject artObject { get; set; }

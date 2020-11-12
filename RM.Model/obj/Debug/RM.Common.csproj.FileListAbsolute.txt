@@ -8,3 +8,9 @@ C:\Users\310241978\source\repos\EIS - Copy\RM.Model\bin\Debug\RM.Common.pdb
 C:\Users\310241978\source\repos\EIS - Copy\RM.Model\obj\Debug\RM.Common.csproj.CoreCompileInputs.cache
 C:\Users\310241978\source\repos\EIS - Copy\RM.Model\obj\Debug\RM.Common.dll
 C:\Users\310241978\source\repos\EIS - Copy\RM.Model\obj\Debug\RM.Common.pdb
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.Model\bin\Debug\RM.Common.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.Model\bin\Debug\RM.Common.pdb
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.Model\obj\Debug\RM.Common.csprojAssemblyReference.cache
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.Model\obj\Debug\RM.Common.csproj.CoreCompileInputs.cache
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.Model\obj\Debug\RM.Common.dll
+C:\Users\310241978\Downloads\RijksmuseumWPF-master (1)\RijksmuseumWPF-master\RM.Model\obj\Debug\RM.Common.pdb

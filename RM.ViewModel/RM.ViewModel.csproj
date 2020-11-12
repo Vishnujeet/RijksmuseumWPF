@@ -55,6 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dailog\ErrorDialogViewModel.cs" />
     <Compile Include="DataContextProvider.cs" />
     <Compile Include="Screen\ArtObjectViewModel.cs" />
     <Compile Include="Helpers\EnumValuesToList.cs" />

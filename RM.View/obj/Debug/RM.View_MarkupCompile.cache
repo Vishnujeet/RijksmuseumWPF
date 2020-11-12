@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\310241978\source\repos\RM\RM.View\obj\Debug\
+C:\Users\310241978\source\repos\RijksmuseumWPF\RM.View\obj\Debug\
 RM.View
 none
 false
 DEBUG;TRACE
 
-51234918610
+51868718506
 
-889394934
-14680547630
-MainScreenView.xaml;Resource\Style\Style.xaml;Screen\ErrorDailog.xaml;Screen\SingleArtViewer.xaml;Screen\ArtObjectViewer.xaml;
+81782256594
+14-1791433139
+MainScreenView.xaml;Resource\Style\Style.xaml;Screen\ErrorDialog.xaml;Screen\SingleArtViewer.xaml;Screen\ArtObjectViewer.xaml;
 
-True
+False
 

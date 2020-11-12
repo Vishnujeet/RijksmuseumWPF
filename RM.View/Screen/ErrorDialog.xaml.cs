@@ -18,9 +18,9 @@ namespace RM.View.Screen
     /// <summary>
     /// Interaction logic for ErrorDailog.xaml
     /// </summary>
-    public partial class ErrorDailog : UserControl
+    public partial class ErrorDialog : Window
     {
-        public ErrorDailog()
+        public ErrorDialog()
         {
             InitializeComponent();
         }

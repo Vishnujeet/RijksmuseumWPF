@@ -2,6 +2,7 @@
 using System.Windows;
 using RM.View.Screen;
 using RM.ViewModel;
+using RM.ViewModel.Dailog;
 using RM.ViewModel.Screen;
 
 namespace RM.View
@@ -46,5 +47,11 @@ namespace RM.View
             artViewerViewModel.OnClose += (sender, args) => { artview.Close(); };
             ShowDialog(artview);
         }
+        public void ActivateErrorMessageBoxScreen(string message) =>
+            ShowDialog(new ErrorDialog()
+            {
+                DataContext = new ErrorDialogViewModel { Message = message},
+            });
+
     }
 }

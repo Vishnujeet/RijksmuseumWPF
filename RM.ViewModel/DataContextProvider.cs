@@ -2,6 +2,7 @@
 using RM.Utils;
 using RM.ViewModel.Screen;
 using Microsoft.Practices.Unity;
+using RM.Common;
 
 namespace RM.ViewModel
 {
@@ -23,6 +24,7 @@ namespace RM.ViewModel
             Container.Instance.RegisterType<IArtObjectViewModel, ArtObjectViewModel>();
             Container.Instance.RegisterType<IArtViewerViewModel, ArtViewerViewModel>();
             Container.Instance.RegisterType<IRMService, RMService>();
+            Container.Instance.RegisterType<ISingleArt, SingleArt>();
         }
     }
 }

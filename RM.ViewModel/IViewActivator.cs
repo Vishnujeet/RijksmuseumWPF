@@ -7,5 +7,6 @@ namespace RM.ViewModel
         void ActivateMainScreen();
         void CloseMainScreen();
         void ArtViewScreen(IArtViewerViewModel addEmployee);
+        void ActivateErrorMessageBoxScreen(string message);
     }
 }

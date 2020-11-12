@@ -2,7 +2,7 @@
 using System.Windows.Input;
 using RM.Common;
 
-namespace RM.ViewModel
+namespace RM.ViewModel.Screen
 {
     public interface IArtObjectViewModel
     {
