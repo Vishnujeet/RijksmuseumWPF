@@ -1,0 +1,6 @@
+C:\Users\310241978\source\repos\EIS - Copy\RM.Cache\bin\Debug\RM.Cache.dll
+C:\Users\310241978\source\repos\EIS - Copy\RM.Cache\bin\Debug\RM.Cache.pdb
+C:\Users\310241978\source\repos\EIS - Copy\RM.Cache\obj\Debug\RM.Cache.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS - Copy\RM.Cache\obj\Debug\RM.Cache.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS - Copy\RM.Cache\obj\Debug\RM.Cache.dll
+C:\Users\310241978\source\repos\EIS - Copy\RM.Cache\obj\Debug\RM.Cache.pdb

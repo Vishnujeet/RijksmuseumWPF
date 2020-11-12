@@ -1,0 +1,68 @@
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\EIS.View.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\Resource\Style\Style.baml
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\Screen\EmployeeInfoView.baml
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\MainScreenView.g.cs
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\Screen\AddEmployee.g.cs
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\Screen\EmployeeInfoView.g.cs
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\Screen\MenuToolsView.g.cs
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\EIS.View_MarkupCompile.cache
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\EIS.View_MarkupCompile.lref
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\EIS.View.dll
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\EIS.View.pdb
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\EIS.ViewModel.dll
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\EIS.Service.dll
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\EIS.Utils.dll
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\EIS.ViewModel.pdb
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\EIS.Service.pdb
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\EIS.Utils.pdb
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\310241978\source\repos\EIS\EIS.View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\MainScreenView.baml
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\Screen\AddEmployee.baml
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\Screen\MenuToolsView.baml
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\EIS.View.g.resources
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\EIS.View.Properties.Resources.resources
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\EIS.View.csproj.GenerateResource.cache
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\EIS.View.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\EIS.View.csproj.CopyComplete
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\EIS.View.dll
+C:\Users\310241978\source\repos\EIS\EIS.View\obj\Debug\EIS.View.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\EIS.View.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\EIS.View.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\EIS.ViewModel.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\EIS.Service.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\EIS.Utils.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\EIS.ViewModel.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\EIS.Service.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\EIS.Utils.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\EIS.View.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\Resource\Style\Style.baml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\Screen\EmployeeInfoView.baml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\MainScreenView.g.cs
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\Screen\AddEmployee.g.cs
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\Screen\EmployeeInfoView.g.cs
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\Screen\MenuToolsView.g.cs
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\EIS.View_MarkupCompile.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\EIS.View_MarkupCompile.lref
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\MainScreenView.baml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\Screen\AddEmployee.baml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\Screen\MenuToolsView.baml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\EIS.View.g.resources
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\EIS.View.Properties.Resources.resources
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\EIS.View.csproj.GenerateResource.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\EIS.View.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\EIS.View.csproj.CopyComplete
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\EIS.View.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.View\obj\Debug\EIS.View.pdb

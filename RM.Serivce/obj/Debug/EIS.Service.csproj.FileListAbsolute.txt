@@ -1,0 +1,26 @@
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\bin\Debug\EIS.Service.dll
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\bin\Debug\EIS.Service.pdb
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\bin\Debug\AutoMapper.dll
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\bin\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\bin\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\bin\Debug\AutoMapper.xml
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\obj\Debug\EIS.Service.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\obj\Debug\EIS.Service.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\obj\Debug\EIS.Service.csproj.CopyComplete
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\obj\Debug\EIS.Service.dll
+C:\Users\310241978\source\repos\EIS\EIS.Serivce\obj\Debug\EIS.Service.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\bin\Debug\EIS.Service.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\bin\Debug\EIS.Service.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\bin\Debug\AutoMapper.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\bin\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\bin\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\bin\Debug\AutoMapper.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\obj\Debug\EIS.Service.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\obj\Debug\EIS.Service.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\obj\Debug\EIS.Service.csproj.CopyComplete
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\obj\Debug\EIS.Service.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Serivce\obj\Debug\EIS.Service.pdb

@@ -1,0 +1,12 @@
+C:\Users\310241978\source\repos\EIS\EIS.Model\bin\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS\EIS.Model\bin\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS\EIS.Model\obj\Debug\EIS.Common.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS\EIS.Model\obj\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS\EIS.Model\obj\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS\EIS.Model\obj\Debug\EIS.Common.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Model\bin\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Model\bin\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Model\obj\Debug\EIS.Common.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Model\obj\Debug\EIS.Common.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Model\obj\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Model\obj\Debug\EIS.Common.pdb

@@ -1,0 +1,68 @@
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.UnitTest.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.UnitTest.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\Castle.Core.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.Service.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.TestUtils.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.Utils.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.ViewModel.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\Moq.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.Service.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.TestUtils.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.Utils.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\EIS.ViewModel.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\Castle.Core.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\Moq.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\nunit.framework.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\obj\Debug\EIS.UnitTest.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\obj\Debug\EIS.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\obj\Debug\EIS.UnitTest.csproj.CopyComplete
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\obj\Debug\EIS.UnitTest.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel.UnitTest\obj\Debug\EIS.UnitTest.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.UnitTest.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.UnitTest.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\Castle.Core.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.Service.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.TestUtils.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.Utils.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.ViewModel.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\Moq.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.Service.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.TestUtils.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.Utils.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\EIS.ViewModel.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\Castle.Core.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\Moq.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\nunit.framework.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\obj\Debug\EIS.UnitTest.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\obj\Debug\EIS.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\obj\Debug\EIS.UnitTest.csproj.CopyComplete
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\obj\Debug\EIS.UnitTest.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel.UnitTest\obj\Debug\EIS.UnitTest.pdb

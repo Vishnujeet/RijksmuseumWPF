@@ -1,0 +1,46 @@
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\EIS.ViewModel.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\EIS.ViewModel.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\EIS.Service.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\EIS.Utils.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\EIS.Service.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\EIS.Utils.pdb
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\obj\Debug\EIS.ViewModel.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\obj\Debug\EIS.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\obj\Debug\EIS.ViewModel.csproj.CopyComplete
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\obj\Debug\EIS.ViewModel.dll
+C:\Users\310241978\source\repos\EIS\EIS.ViewModel\obj\Debug\EIS.ViewModel.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\EIS.ViewModel.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\EIS.ViewModel.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\EIS.Common.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\EIS.Service.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\EIS.Utils.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\EIS.Common.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\EIS.Service.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\EIS.Utils.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\obj\Debug\EIS.ViewModel.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\obj\Debug\EIS.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\obj\Debug\EIS.ViewModel.csproj.CopyComplete
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\obj\Debug\EIS.ViewModel.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.ViewModel\obj\Debug\EIS.ViewModel.pdb

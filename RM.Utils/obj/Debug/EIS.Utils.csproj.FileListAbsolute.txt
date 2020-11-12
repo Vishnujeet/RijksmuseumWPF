@@ -1,0 +1,18 @@
+C:\Users\310241978\source\repos\EIS\EIS.Utils\bin\Debug\EIS.Utils.dll
+C:\Users\310241978\source\repos\EIS\EIS.Utils\bin\Debug\EIS.Utils.pdb
+C:\Users\310241978\source\repos\EIS\EIS.Utils\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\310241978\source\repos\EIS\EIS.Utils\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\310241978\source\repos\EIS\EIS.Utils\obj\Debug\EIS.Utils.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS\EIS.Utils\obj\Debug\EIS.Utils.csproj.CopyComplete
+C:\Users\310241978\source\repos\EIS\EIS.Utils\obj\Debug\EIS.Utils.dll
+C:\Users\310241978\source\repos\EIS\EIS.Utils\obj\Debug\EIS.Utils.pdb
+C:\Users\310241978\source\repos\EIS\EIS.Utils\obj\Debug\EIS.Utils.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Utils\bin\Debug\EIS.Utils.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Utils\bin\Debug\EIS.Utils.pdb
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Utils\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Utils\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Utils\obj\Debug\EIS.Utils.csprojAssemblyReference.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Utils\obj\Debug\EIS.Utils.csproj.CoreCompileInputs.cache
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Utils\obj\Debug\EIS.Utils.csproj.CopyComplete
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Utils\obj\Debug\EIS.Utils.dll
+C:\Users\310241978\source\repos\EIS - Copy\EIS.Utils\obj\Debug\EIS.Utils.pdb

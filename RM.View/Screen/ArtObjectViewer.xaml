@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="RM.View.Screen.ArtObjectViewer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../Resource/Style/Style.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        <ListBox ItemsSource="{Binding ListOfArtObjects}" BorderBrush="Transparent"
+                 ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" />
+                    <GradientStop Color="#FF1E2A2F" Offset="1" />
+                </LinearGradientBrush>
+            </ListBox.Background>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid HorizontalAlignment="Left" Width="200" Height="230">
+
+                        <Button Style="{StaticResource TileButtonStyle}"
+                                Command="{Binding RelativeSource={RelativeSource AncestorType=ItemsControl},
+                             Path=DataContext.GetDetailsCommand}"
+                                CommandParameter="{Binding objectNumber}">
+                            <Image Source="{Binding webImage.url}" HorizontalAlignment="Stretch"
+                                   VerticalAlignment="Top" Stretch="UniformToFill" Width="200" Height="230" />
+                        </Button>
+                        <StackPanel VerticalAlignment="Bottom" Background="Black" Opacity="0.70" Width="230">
+                            <TextBlock Text="{Binding title}" Foreground="White" Height="60" Margin="15,0,15,0"
+                                       FontWeight="Bold" TextWrapping="WrapWithOverflow" />
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel IsItemsHost="True" Orientation="Horizontal" />
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+        </ListBox>
+    </Grid>
+</UserControl>
