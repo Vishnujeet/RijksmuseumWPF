@@ -7,5 +7,6 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit2x::3A6B9781-2EE8-4EEF-A897-7AF325D76B53::.NETFramework,Version=v4.7.2::RM.UITest.UIAutomation.ScreenSizeTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::41C12CBB-B6AA-4196-BFF6-8CCC7D9F3AD4::.NETFramework,Version=v4.7.2::RM.UnitTest.TestEmployeeInfoViewModel.GetArtGetDetailsCommand&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41C12CBB-B6AA-4196-BFF6-8CCC7D9F3AD4::.NETFramework,Version=v4.7.2::RM.UnitTest.TestArtViewerViewModel.GetArtGetDetailsCommand&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -18,6 +18,8 @@ namespace RM.UnitTest
         private Mock<IRMService> mockIRMService;
         private ArtObjectViewModel artObjectViewModel;
         private Mock<IArtViewerViewModel> mockArtViewerViewModel;
+        private Mock<ISingleArt> mockSingleArtMock;
+
         [SetUp]
         public void SetUp()
         {
@@ -25,6 +27,7 @@ namespace RM.UnitTest
             mockViewActivator = new Mock<IViewActivator>();
             mockIRMService = Container.Instance.RegisterMock<IRMService>();
             mockArtViewerViewModel = Container.Instance.RegisterMock<IArtViewerViewModel>();
+            mockSingleArtMock = Container.Instance.RegisterMock<ISingleArt>();
             artObjectViewModel = new ArtObjectViewModel();
         }
 
@@ -32,11 +35,21 @@ namespace RM.UnitTest
         [Test]
         public void GetArtGetDetailsCommand()
         {
-            mockIRMService.Setup(x => x.GetArtObjectDetails(It.IsAny<string>())).Returns(Task.FromResult(new SingleArt()));
-
-            //mockDataContextProvider.SetupGet(x => x.MainScreenViewModel.EmployeeInfoViewModel)
-            //    .Returns(mockEmployeeInfo.Object);
-            artObjectViewModel.GetDetailsCommand.Execute(null);
+            mockIRMService.Setup(x => x.GetArtObjectDetails(It.IsAny<string>())).Returns(Task.FromResult(new SingleArt()
+            {
+                artObject = new ArtObject()
+                {
+                    webImage = new WebImage() {url = ""},
+                    description = "",
+                    title = "",
+                    principalOrFirstMaker = "",
+                    objectNumber = "test"
+                }
+            }));
+            mockDataContextProvider.Setup(x => x.ViewActivator.ArtViewScreen(It.IsAny<IArtViewerViewModel>()));
+            artObjectViewModel.GetDetailsCommand.Execute("test");
+            mockIRMService.Verify(x=>x.GetArtObjectDetails(It.IsAny<string>()),Times.Once);
+            mockDataContextProvider.Verify(x=>x.ViewActivator.ArtViewScreen(It.IsAny<IArtViewerViewModel>()),Times.Once);
         }
     }
 }
